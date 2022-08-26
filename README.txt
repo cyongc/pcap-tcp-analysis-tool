@@ -1,7 +1,6 @@
-analysis_pcap_tcp
-cyongc
+# pcap-tcp-analysis-tool
 
-myparser.py
+myparser.py analyzes a PCAP file to characterize TCP flows in the trace.
 
 Program will ask for user to input pcap file name. Ensure any additional test files aside from sample.pcap is included in main folder. Error raised when non-pcap file is inputted
 
